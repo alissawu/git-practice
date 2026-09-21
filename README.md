@@ -1,2 +1,9 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+
+[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) by Addy Osmani
+
+## Why I found it interesting
+
+ I found this article interesting because it gave a concrete name to a feeling I’ve been having recently. In this article Osmani distinguishes between “cognitive offloading” (delegating to AI while still understanding what’s going on) versus “cognitive surrender” (simply accepting AI output without actually using your brain and putting real thought into it). He cites a Wharton study that found that not only do 73% of people accepted wrong AI answers when given the chance to use AI, but their confidence actually went up. In short, they borrowed the model’s certainty without doing any of the thinking, allowing a flawed offloaded heuristic to lead them to an incorrect conclusion. 
+
+As a computer science student, I find this pretty unsettling. I've been increasingly feeling a certain pressure to ship fast, go hard with AI until things break, go fast now and accumulate tech debt the next model will be smart enough to fix, etc. But Osmani also explains that engineers that used AI to generate code while learning scored 17% lower on comprehension than those who used it for conceptual inquiry. His takeaway here isn’t that we should not be using AI, but that there is absolutely a line between using AI as a tool and letting it replace using your brain. And this line is invisible, and most of us cross it without noticing. This is the part I want to be better at noticing, because it’s important for learning and becoming a better engineer to actually be fully understanding what is going on. 
