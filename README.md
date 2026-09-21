@@ -13,3 +13,7 @@ As a computer science student, I find this pretty unsettling. I've been increasi
 I found this article interesting because I also think there is a big difference between using AI to help you think and letting AI do all of the thinking for you. As AI becomes more common in programming, it can make development much faster, but it can also make it easy to accept code without fully understanding how it works. I think the idea of "cognitive surrender" is especially important for students because understanding the process is just as important as getting the correct result.
 
 — Tony Zhou
+
+### Ray Yang's Comment
+
+Regarding the statistics, actually the 73% figure refers to trials when the AI gave the wrong answer, participants accepted 73% of the responses. 17% gap on the other hand represents the comparison between engineers who generated code with AI while learning against a control group. The engineers who used AI for conceptual questions are a separate finding which they performed about as well as the control group. What interested me is Osmani's point that generated code passes the "looks plausible test" by default. The same applies to AI-generated interfaces UIs, which looks finished whether or not the design decisions were aligned or hold up. As a UI UX designer, I should never fall into cognitive dept. The message I got from the article is write down what I expect the answer to look like before reading the output. If the two don't match, I have to decide who is wrong. That decision is what cognitive surrenders neglect.
